@@ -5,7 +5,8 @@
 }
 
 body{
-    background-color: brown;
+    background: linear-gradient(to bottom, #ab0a0a, #7a0404);
+    color: white;
 }
  h1{
     text-align: center;
